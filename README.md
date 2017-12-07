@@ -21,7 +21,7 @@ npm i
 
 Start web app.
 ```
-npm run start
+npm run start 
 ```
 
 ## Deployment with Heroku
